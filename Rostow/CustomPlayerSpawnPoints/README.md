@@ -1,6 +1,11 @@
 Here are some additional Spawn Points for Players for the DayZ Map Rostow to make the game experience a bit more 
 dynamic in terms of running paths as a fresh player. (see Pic with the yellow circles)
 
+add this into your:
+
+\mpmissions\Offline.rostow\cfgplayerspawnpoints.xml
+
+
       <pos x="13698.46" z="7212.307" />
       <pos x="13430.91" z="6927.272" />
       <pos x="13443.64" z="7338.182" />
